@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="380" viewBox="0 0 760 380" font-family="FZHei-B01, SimHei, Microsoft YaHei, sans-serif">
+  <!-- 图5-2 有关自信的良性循环和恶性循环 -->
+  <!-- ===== 良性循环 (left, warm gold) ===== -->
+  <g fill="none" stroke="#cb9f4f" stroke-width="9" stroke-linecap="round">
+    <path d="M229.5,119.7 A92,92 0 0 1 280.3,170.5"/>
+    <path d="M280.3,239.5 A92,92 0 0 1 229.5,290.3"/>
+    <path d="M160.5,290.3 A92,92 0 0 1 109.7,239.5"/>
+    <path d="M109.7,170.5 A92,92 0 0 1 160.5,119.7"/>
+  </g>
+  <g fill="#cb9f4f">
+    <polygon points="285.5,183.5 287.7,167.5 272.9,173.5"/>
+    <polygon points="216.5,295.5 232.5,297.7 226.5,282.9"/>
+    <polygon points="104.5,226.5 102.3,242.5 117.1,236.5"/>
+    <polygon points="173.5,114.5 157.5,112.3 163.5,127.1"/>
+  </g>
+  <g text-anchor="middle">
+    <text x="195" y="113" font-size="21" fill="#2f2a25">自信</text>
+    <text x="303" y="212" font-size="21" fill="#2f2a25">尝试</text>
+    <text x="195" y="312" font-size="21" fill="#2f2a25">成功</text>
+    <text x="92" y="212" font-size="21" fill="#2f2a25">积极乐观</text>
+    <text x="195" y="200" font-size="17" fill="#8a4b2a">良性</text>
+    <text x="195" y="224" font-size="17" fill="#8a4b2a">循环</text>
+  </g>
+  <!-- ===== 恶性循环 (right, muted gray) ===== -->
+  <g transform="translate(405,0)">
+    <g fill="none" stroke="#a59a88" stroke-width="9" stroke-linecap="round">
+      <path d="M229.5,119.7 A92,92 0 0 1 280.3,170.5"/>
+      <path d="M280.3,239.5 A92,92 0 0 1 229.5,290.3"/>
+      <path d="M160.5,290.3 A92,92 0 0 1 109.7,239.5"/>
+      <path d="M109.7,170.5 A92,92 0 0 1 160.5,119.7"/>
+    </g>
+    <g fill="#a59a88">
+      <polygon points="285.5,183.5 287.7,167.5 272.9,173.5"/>
+      <polygon points="216.5,295.5 232.5,297.7 226.5,282.9"/>
+      <polygon points="104.5,226.5 102.3,242.5 117.1,236.5"/>
+      <polygon points="173.5,114.5 157.5,112.3 163.5,127.1"/>
+    </g>
+  </g>
+  <g text-anchor="middle">
+    <text x="600" y="113" font-size="21" fill="#2f2a25">自卑</text>
+    <text x="708" y="212" font-size="21" fill="#2f2a25">恐惧</text>
+    <text x="600" y="312" font-size="21" fill="#2f2a25">失败</text>
+    <text x="497" y="212" font-size="21" fill="#2f2a25">消极悲观</text>
+    <text x="600" y="200" font-size="17" fill="#6b6052">恶性</text>
+    <text x="600" y="224" font-size="17" fill="#6b6052">循环</text>
+  </g>
+</svg>

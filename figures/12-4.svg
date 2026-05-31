@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="420" viewBox="0 0 440 420">
+  <!-- 图12-4 答案一（一笔四线，连贯地"跳出方框"） -->
+  <!-- one continuous 4-segment stroke: down → up-right → left → down-right -->
+  <polyline points="90,60 90,360 390,60 90,60 340,310"
+            fill="none" stroke="#c0922f" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- arrowheads at the three points where the stroke reaches outside the grid -->
+  <g fill="#c0922f">
+    <polygon points="90,376 81,360 99,360"/>
+    <polygon points="399,50 393.5,65.5 384,55"/>
+    <polygon points="350,320 344,304 334,314.5"/>
+  </g>
+  <!-- nine dots -->
+  <g fill="#2f2a25">
+    <circle cx="90" cy="60" r="13"/><circle cx="190" cy="60" r="13"/><circle cx="290" cy="60" r="13"/>
+    <circle cx="90" cy="160" r="13"/><circle cx="190" cy="160" r="13"/><circle cx="290" cy="160" r="13"/>
+    <circle cx="90" cy="260" r="13"/><circle cx="190" cy="260" r="13"/><circle cx="290" cy="260" r="13"/>
+  </g>
+</svg>

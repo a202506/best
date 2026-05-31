@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="470" viewBox="0 0 600 470" font-family="FZHei-B01, SimHei, Microsoft YaHei, sans-serif">
+  <!-- 图11-2 计划、执行和反馈组成的循环 -->
+  <g fill="none" stroke="#cb9f4f" stroke-width="11" stroke-linecap="round">
+    <path d="M344.95,143.7 A120,120 0 0 1 391.92,177.9"/>
+    <path d="M419.7,263.4 A120,120 0 0 1 401.8,318.6"/>
+    <path d="M329.0,371.4 A120,120 0 0 1 271.0,371.4"/>
+    <path d="M198.2,318.6 A120,120 0 0 1 180.3,263.4"/>
+    <path d="M208.08,177.9 A120,120 0 0 1 255.05,143.7"/>
+  </g>
+  <g fill="#cb9f4f">
+    <polygon points="400.9,188.6 398.8,172.1 385.0,183.7"/>
+    <polygon points="394.4,330.5 409.4,323.4 394.2,313.8"/>
+    <polygon points="257.4,368.0 268.8,380.1 273.2,362.7"/>
+    <polygon points="179.3,249.4 171.3,264.0 189.3,262.8"/>
+    <polygon points="268.0,138.5 251.7,135.4 258.4,152.0"/>
+  </g>
+  <!-- center -->
+  <circle cx="300" cy="255" r="48" fill="#8a4b2a" stroke="#c9a45c" stroke-width="3"/>
+  <text x="300" y="264" font-size="24" text-anchor="middle" fill="#f6efe2">信念</text>
+  <!-- labels -->
+  <g text-anchor="middle" fill="#2f2a25" font-size="20">
+    <text x="300" y="76">计划</text>
+    <text x="480" y="204">阶段计划</text>
+    <text x="409" y="412">定义预期结果</text>
+    <text x="191" y="412">执行</text>
+    <text x="120" y="190">检查结果</text>
+    <text x="120" y="214">修正计划</text>
+  </g>
+</svg>

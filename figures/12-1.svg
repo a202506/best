@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="320" viewBox="0 0 340 320">
+  <!-- 图12-1 一笔画问题 -->
+  <g fill="#2f2a25">
+    <circle cx="70" cy="60" r="14"/><circle cx="170" cy="60" r="14"/><circle cx="270" cy="60" r="14"/>
+    <circle cx="70" cy="160" r="14"/><circle cx="170" cy="160" r="14"/><circle cx="270" cy="160" r="14"/>
+    <circle cx="70" cy="260" r="14"/><circle cx="170" cy="260" r="14"/><circle cx="270" cy="260" r="14"/>
+  </g>
+</svg>

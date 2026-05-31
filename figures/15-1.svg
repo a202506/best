@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="560" viewBox="0 0 600 560" font-family="FZHei-B01, SimHei, Microsoft YaHei, sans-serif">
+  <!-- 图15-1 六种态度的均衡关系 -->
+  <circle cx="300" cy="280" r="250" fill="#ddd6c5" stroke="#bbae90" stroke-width="1.5"/>
+  <circle cx="300" cy="280" r="145" fill="#cabf9d" stroke="#aa9d78" stroke-width="1.5"/>
+  <!-- spokes -->
+  <g stroke="#8a4b2a" stroke-width="6" stroke-linecap="round">
+    <line x1="248" y1="280" x2="128" y2="280"/>
+    <line x1="352" y1="280" x2="472" y2="280"/>
+    <line x1="263.2" y1="243.2" x2="178.4" y2="158.4"/>
+    <line x1="336.8" y1="243.2" x2="421.6" y2="158.4"/>
+    <line x1="263.2" y1="316.8" x2="178.4" y2="401.6"/>
+    <line x1="336.8" y1="316.8" x2="421.6" y2="401.6"/>
+  </g>
+  <g fill="#8a4b2a">
+    <polygon points="117,280 131,273 131,287"/>
+    <polygon points="483,280 469,273 469,287"/>
+    <polygon points="170.6,150.6 173.5,163.3 183.3,153.5"/>
+    <polygon points="429.4,150.6 426.5,163.3 416.7,153.5"/>
+    <polygon points="170.6,409.4 173.5,396.7 183.3,406.5"/>
+    <polygon points="429.4,409.4 426.5,396.7 416.7,406.5"/>
+  </g>
+  <circle cx="300" cy="280" r="46" fill="#bdae84" stroke="#aa9d78" stroke-width="1.5"/>
+  <!-- inner virtue labels -->
+  <g>
+    <g fill="#f3eee2" stroke="#b6a880" stroke-width="1.2">
+      <ellipse cx="202" cy="280" rx="30" ry="18"/>
+      <ellipse cx="398" cy="280" rx="30" ry="18"/>
+      <ellipse cx="230.7" cy="210.7" rx="30" ry="18"/>
+      <ellipse cx="369.3" cy="210.7" rx="30" ry="18"/>
+      <ellipse cx="230.7" cy="349.3" rx="30" ry="18"/>
+      <ellipse cx="369.3" cy="349.3" rx="42" ry="18"/>
+    </g>
+    <g font-size="19" text-anchor="middle" fill="#2f2a25">
+      <text x="202" y="287">勇气</text>
+      <text x="398" y="287">胸怀</text>
+      <text x="230.7" y="217.7">积极</text>
+      <text x="369.3" y="217.7">自省</text>
+      <text x="230.7" y="356.3">自信</text>
+      <text x="369.3" y="356.3">同理心</text>
+    </g>
+  </g>
+  <!-- outer extreme labels -->
+  <g font-size="19" text-anchor="middle" fill="#5a4632">
+    <text x="92" y="287">愚勇</text>
+    <text x="508" y="287">懦弱</text>
+    <text x="150" y="142">霸道</text>
+    <text x="450" y="142">自卑</text>
+    <text x="150" y="432">自负</text>
+    <text x="450" y="432">盲从</text>
+  </g>
+  <!-- callouts -->
+  <line x1="232" y1="78" x2="262" y2="150" stroke="#9c8e6f" stroke-width="1.3"/>
+  <rect x="158" y="44" width="150" height="36" rx="9" fill="#efe9dd" stroke="#bdad88" stroke-width="1.3"/>
+  <text x="233" y="68" font-size="18" text-anchor="middle" fill="#2f2a25">内圈：均衡</text>
+  <line x1="430" y1="84" x2="406" y2="150" stroke="#9c8e6f" stroke-width="1.3"/>
+  <rect x="356" y="50" width="150" height="36" rx="9" fill="#efe9dd" stroke="#bdad88" stroke-width="1.3"/>
+  <text x="431" y="74" font-size="18" text-anchor="middle" fill="#2f2a25">外圈：极端</text>
+</svg>

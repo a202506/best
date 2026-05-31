@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="560" viewBox="0 0 760 560" font-family="FZHei-B01, SimHei, Microsoft YaHei, sans-serif">
+  <!-- 图12-2 大学学习在一生中的重要地位 -->
+  <!-- 大学时光 shaded band -->
+  <rect x="170" y="40" width="120" height="470" fill="#d9d2c1" fill-opacity="0.8"/>
+  <text x="230" y="68" font-size="19" text-anchor="middle" fill="#5a5142">大学时光</text>
+  <!-- axes -->
+  <line x1="60" y1="40" x2="60" y2="510" stroke="#4a4338" stroke-width="2.5"/>
+  <polygon points="60,30 54,46 66,46" fill="#4a4338"/>
+  <line x1="60" y1="510" x2="725" y2="510" stroke="#4a4338" stroke-width="2.5"/>
+  <polygon points="735,510 719,504 719,516" fill="#4a4338"/>
+  <text x="705" y="542" font-size="20" fill="#2f2a25">人生</text>
+  <!-- 你的基础: dotted, steep early then high plateau -->
+  <path d="M60,480 C92,300 135,245 225,232 C400,212 600,205 715,203" fill="none"
+        stroke="#5a4632" stroke-width="4.5" stroke-dasharray="2 8" stroke-linecap="round"/>
+  <!-- 你对自己理想和兴趣的认知: dash-dot, S-curve to highest plateau -->
+  <path d="M60,492 C170,478 235,300 325,250 C470,178 600,168 715,162" fill="none"
+        stroke="#3f3a30" stroke-width="3" stroke-dasharray="15 6 3 6" stroke-linecap="round"/>
+  <!-- 你的时间: solid bell peaking in college -->
+  <path d="M60,486 C140,460 192,300 245,205 C275,152 305,152 335,212 C405,335 525,470 715,492" fill="none"
+        stroke="#2f2a25" stroke-width="2.6" stroke-linecap="round"/>
+  <!-- 你修正自己的能力: dashed, broad hump then decline -->
+  <path d="M60,482 C150,430 235,372 325,366 C430,360 505,396 600,448 C650,470 690,478 715,480" fill="none"
+        stroke="#6b6052" stroke-width="3" stroke-dasharray="13 8" stroke-linecap="round"/>
+  <!-- callout: 你对自己理想和兴趣的认知 (top right) -->
+  <line x1="600" y1="168" x2="600" y2="132" stroke="#9c8e6f" stroke-width="1.4"/>
+  <rect x="498" y="56" width="208" height="78" rx="9" fill="#efe9dd" stroke="#bdad88" stroke-width="1.4"/>
+  <text x="602" y="90" font-size="18" text-anchor="middle" fill="#2f2a25">你对自己理想</text>
+  <text x="602" y="116" font-size="18" text-anchor="middle" fill="#2f2a25">和兴趣的认知</text>
+  <!-- callout: 你的基础 (mid right) -->
+  <line x1="560" y1="206" x2="585" y2="232" stroke="#9c8e6f" stroke-width="1.4"/>
+  <rect x="585" y="222" width="124" height="48" rx="9" fill="#efe9dd" stroke="#bdad88" stroke-width="1.4"/>
+  <text x="647" y="252" font-size="18" text-anchor="middle" fill="#2f2a25">你的基础</text>
+  <!-- callout: 你的时间 (center right) -->
+  <line x1="415" y1="320" x2="448" y2="306" stroke="#9c8e6f" stroke-width="1.4"/>
+  <rect x="448" y="284" width="124" height="48" rx="9" fill="#efe9dd" stroke="#bdad88" stroke-width="1.4"/>
+  <text x="510" y="314" font-size="18" text-anchor="middle" fill="#2f2a25">你的时间</text>
+  <!-- callout: 你修正自己的能力 (lower right) -->
+  <line x1="575" y1="438" x2="600" y2="468" stroke="#9c8e6f" stroke-width="1.4"/>
+  <rect x="540" y="420" width="170" height="74" rx="9" fill="#efe9dd" stroke="#bdad88" stroke-width="1.4"/>
+  <text x="625" y="454" font-size="18" text-anchor="middle" fill="#2f2a25">你修正自己</text>
+  <text x="625" y="480" font-size="18" text-anchor="middle" fill="#2f2a25">的能力</text>
+</svg>

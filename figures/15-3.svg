@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="520" viewBox="0 0 570 520" font-family="FZHei-B01, SimHei, Microsoft YaHei, sans-serif">
+  <!-- 图15-3 关注圈和影响圈 -->
+  <circle cx="250" cy="270" r="230" fill="#ddd6c4" stroke="#bbae90" stroke-width="1.5"/>
+  <circle cx="250" cy="270" r="155" fill="#bcae87" stroke="#a89a73" stroke-width="1.5"/>
+  <circle cx="250" cy="270" r="86" fill="#564433" stroke="#3f3122" stroke-width="1.5"/>
+  <text x="250" y="100" font-size="22" text-anchor="middle" fill="#3f3a30">无能为力</text>
+  <text x="250" y="182" font-size="22" text-anchor="middle" fill="#2f2a25">间接影响</text>
+  <text x="250" y="278" font-size="22" text-anchor="middle" fill="#f3ecdd">直接影响</text>
+  <!-- callouts -->
+  <line x1="438" y1="92" x2="388" y2="152" stroke="#9c8e6f" stroke-width="1.4"/>
+  <rect x="430" y="56" width="120" height="40" rx="11" fill="#efe9dd" stroke="#bdad88" stroke-width="1.4"/>
+  <text x="490" y="83" font-size="20" text-anchor="middle" fill="#2f2a25">关注圈</text>
+  <line x1="438" y1="228" x2="372" y2="252" stroke="#9c8e6f" stroke-width="1.4"/>
+  <rect x="430" y="194" width="120" height="40" rx="11" fill="#efe9dd" stroke="#bdad88" stroke-width="1.4"/>
+  <text x="490" y="221" font-size="20" text-anchor="middle" fill="#2f2a25">影响圈</text>
+</svg>

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1140" viewBox="0 0 1240 1140" font-family="FZHei-B01, SimHei, Microsoft YaHei, sans-serif">
+  <!-- 图5-1 自信是潜能的"放大镜" -->
+
+  <!-- ============ 上：缺乏自信（凹透镜，使潜能显得变小） ============ -->
+  <line x1="40" y1="300" x2="1180" y2="300" stroke="#9b9384" stroke-width="1.6" stroke-dasharray="9 7"/>
+  <!-- 焦点 (虚焦点，左) -->
+  <circle cx="92" cy="300" r="7" fill="none" stroke="#2f2a25" stroke-width="2"/>
+  <text x="48" y="294" font-size="22" text-anchor="middle" fill="#2f2a25">焦</text>
+  <text x="48" y="320" font-size="22" text-anchor="middle" fill="#2f2a25">点</text>
+  <!-- 虚线发散光线（自焦点出发） -->
+  <g stroke="#6b6052" stroke-width="1.6" stroke-dasharray="9 7" fill="none">
+    <path d="M92,300 L500,182"/>
+    <path d="M92,300 L500,418"/>
+  </g>
+  <!-- object: 潜能(外框) / 能力(内实) -->
+  <rect x="305" y="150" width="46" height="300" fill="none" stroke="#5a4632" stroke-width="2"/>
+  <rect x="326" y="205" width="14" height="190" fill="#2f2a25"/>
+  <text x="306" y="135" font-size="22" text-anchor="middle" fill="#2f2a25">潜能</text>
+  <text x="378" y="308" font-size="22" text-anchor="start" fill="#2f2a25">能力</text>
+  <!-- 凹透镜 -->
+  <path d="M478,40 Q494,300 478,560 L522,560 Q506,300 522,40 Z" fill="#d6dde0" stroke="#86a0a8" stroke-width="1.8"/>
+  <g font-size="22" text-anchor="middle" fill="#3f3a30">
+    <text x="500" y="195">缺</text><text x="500" y="245">乏</text><text x="500" y="295">自</text><text x="500" y="345">信</text>
+  </g>
+  <!-- 实线光线：物→镜→发散 -->
+  <g stroke="#2f2a25" stroke-width="2.2" fill="none">
+    <path d="M351,185 L500,185 L1130,45"/>
+    <path d="M351,415 L500,415 L1130,555"/>
+  </g>
+  <g fill="#2f2a25">
+    <polygon points="1130,45 1114.9,55.5 1111.9,41.9"/>
+    <polygon points="1130,555 1114.9,544.5 1111.9,558.1"/>
+  </g>
+  <!-- 观察者 -->
+  <ellipse cx="1086" cy="300" rx="19" ry="11" fill="#fff" stroke="#2f2a25" stroke-width="1.8"/>
+  <circle cx="1086" cy="300" r="5" fill="#2f2a25"/>
+  <text x="1116" y="308" font-size="22" text-anchor="start" fill="#2f2a25">观 察 者</text>
+
+  <!-- ============ 下：自信（凸透镜，把潜能放大） ============ -->
+  <line x1="40" y1="850" x2="1180" y2="850" stroke="#9b9384" stroke-width="1.6" stroke-dasharray="9 7"/>
+  <!-- 虚线发散光线（左侧入射） -->
+  <g stroke="#6b6052" stroke-width="1.6" stroke-dasharray="9 7" fill="none">
+    <path d="M500,732 L70,640"/>
+    <path d="M500,968 L70,1060"/>
+  </g>
+  <!-- object: 能力(外框) / 潜能(内实) -->
+  <rect x="305" y="700" width="46" height="300" fill="none" stroke="#5a4632" stroke-width="2"/>
+  <rect x="326" y="752" width="14" height="196" fill="#2f2a25"/>
+  <text x="328" y="685" font-size="22" text-anchor="middle" fill="#2f2a25">能力</text>
+  <text x="300" y="808" font-size="22" text-anchor="middle" fill="#2f2a25">潜能</text>
+  <!-- 凸透镜 -->
+  <path d="M500,590 Q548,850 500,1110 Q452,850 500,590 Z" fill="#d6dde0" stroke="#86a0a8" stroke-width="1.8"/>
+  <g font-size="22" text-anchor="middle" fill="#2f5a6a">
+    <text x="500" y="838">自</text><text x="500" y="884">信</text>
+  </g>
+  <!-- 实线光线：物→镜→会聚到焦点 -->
+  <g stroke="#2f2a25" stroke-width="2.2" fill="none">
+    <path d="M351,732 L500,732 L1040,849"/>
+    <path d="M351,968 L500,968 L1040,851"/>
+  </g>
+  <g fill="#2f2a25">
+    <polygon points="1038,848 1021.5,851.5 1023.5,839.2"/>
+    <polygon points="1038,852 1023.5,860.8 1021.5,848.5"/>
+  </g>
+  <!-- 焦点 (实焦点，右) -->
+  <circle cx="1052" cy="850" r="7" fill="none" stroke="#2f2a25" stroke-width="2"/>
+  <text x="1060" y="844" font-size="22" text-anchor="middle" fill="#2f2a25">焦</text>
+  <text x="1060" y="870" font-size="22" text-anchor="middle" fill="#2f2a25">点</text>
+  <!-- 观察者 -->
+  <ellipse cx="1112" cy="850" rx="19" ry="11" fill="#fff" stroke="#2f2a25" stroke-width="1.8"/>
+  <circle cx="1112" cy="850" r="5" fill="#2f2a25"/>
+  <text x="1142" y="858" font-size="22" text-anchor="start" fill="#2f2a25">观 察 者</text>
+</svg>
