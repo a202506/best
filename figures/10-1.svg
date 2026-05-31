@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="540" viewBox="0 0 560 540" font-family="FZHei-B01, SimHei, Microsoft YaHei, sans-serif">
+  <!-- 图10-1 找到交集 -->
+  <g stroke="#8a7458" stroke-width="1.6">
+    <circle cx="213" cy="203" r="152" fill="#b98e4f" fill-opacity="0.16" stroke-dasharray="6 5"/>
+    <circle cx="347" cy="203" r="152" fill="#8a6a40" fill-opacity="0.34"/>
+    <circle cx="213" cy="337" r="152" fill="#b98e4f" fill-opacity="0.22"/>
+    <circle cx="347" cy="337" r="152" fill="#9c7c4c" fill-opacity="0.26"/>
+  </g>
+  <g text-anchor="middle" fill="#2f2a25" font-size="24">
+    <text x="150" y="138">理想</text>
+    <text x="412" y="138">就业</text>
+    <text x="150" y="408">兴趣</text>
+    <text x="412" y="408">天赋</text>
+  </g>
+  <text x="280" y="280" font-size="27" text-anchor="middle" fill="#f3ecdd" font-weight="bold">完美工作</text>
+</svg>

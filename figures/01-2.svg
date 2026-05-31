@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="380" viewBox="0 0 360 380" font-family="FZHei-B01, SimHei, Microsoft YaHei, sans-serif">
+  <!-- 图1-2 价值观 -->
+  <defs>
+    <radialGradient id="g12" cx="50%" cy="42%" r="60%">
+      <stop offset="0%" stop-color="#e1d3b5"/>
+      <stop offset="100%" stop-color="#cdb992"/>
+    </radialGradient>
+  </defs>
+  <circle cx="180" cy="190" r="150" fill="#efe9dd" stroke="#c3b69a" stroke-width="1.5"/>
+  <circle cx="180" cy="190" r="100" fill="url(#g12)" stroke="#b6a47e" stroke-width="1.5"/>
+  <text x="180" y="198" font-size="24" text-anchor="middle" fill="#2f2a25">价值观</text>
+  <text x="44" y="32" font-size="20" fill="#8a4b2a">成功</text>
+</svg>

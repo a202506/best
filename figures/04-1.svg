@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" font-family="FZHei-B01, SimHei, Microsoft YaHei, sans-serif">
+  <!-- 图4-1 信任源于同理心 -->
+  <g stroke="#9c8e6f" stroke-width="1.5" stroke-linejoin="round">
+    <polygon points="320,30 242.2,130 397.8,130" fill="#cdb98e"/>
+    <polygon points="242.2,130 397.8,130 460,210 180,210" fill="#ddcdab"/>
+    <polygon points="180,210 460,210 530,300 110,300" fill="#e7dabd"/>
+    <polygon points="110,300 530,300 600,390 40,390" fill="#f0e7d3"/>
+  </g>
+  <polygon points="320,30 600,390 40,390" fill="none" stroke="#7d6f52" stroke-width="2" stroke-linejoin="round"/>
+  <g text-anchor="middle" fill="#2f2a25">
+    <text x="320" y="100" font-size="23">成功</text>
+    <text x="320" y="182" font-size="23">人际关系</text>
+    <text x="320" y="263" font-size="26">信任</text>
+    <text x="320" y="353" font-size="26">同理心</text>
+  </g>
+</svg>

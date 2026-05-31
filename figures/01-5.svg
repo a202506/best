@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" font-family="FZHei-B01, SimHei, Microsoft YaHei, sans-serif">
+  <!-- 图1-5 成功同心圆 -->
+  <defs>
+    <radialGradient id="g15core" cx="50%" cy="42%" r="60%">
+      <stop offset="0%" stop-color="#ddccab"/>
+      <stop offset="100%" stop-color="#cab68f"/>
+    </radialGradient>
+  </defs>
+  <!-- rings -->
+  <circle cx="300" cy="300" r="235" fill="#f1ece1" stroke="#bfb295" stroke-width="1.5"/>
+  <circle cx="300" cy="300" r="150" fill="#e3dac6" stroke="#bdad88" stroke-width="1.5"/>
+  <!-- sector dividers (from core to outer) -->
+  <g stroke="#b6a981" stroke-width="1.4">
+    <line x1="300" y1="222" x2="300" y2="65"/>
+    <line x1="300" y1="378" x2="300" y2="535"/>
+    <line x1="367.5" y1="261" x2="503.5" y2="182.5"/>
+    <line x1="232.5" y1="261" x2="96.5" y2="182.5"/>
+    <line x1="232.5" y1="339" x2="96.5" y2="417.5"/>
+    <line x1="367.5" y1="339" x2="503.5" y2="417.5"/>
+  </g>
+  <!-- core -->
+  <circle cx="300" cy="300" r="78" fill="url(#g15core)" stroke="#ab9870" stroke-width="1.5"/>
+  <text x="300" y="309" font-size="26" text-anchor="middle" fill="#2f2a25">价值观</text>
+  <!-- inner ring labels (6 attitudes) -->
+  <g font-size="21" fill="#2f2a25" text-anchor="middle">
+    <text x="243" y="208">积极</text>
+    <text x="357" y="208">自省</text>
+    <text x="414" y="307">胸怀</text>
+    <text x="357" y="406">同理心</text>
+    <text x="243" y="406">自信</text>
+    <text x="186" y="307">勇气</text>
+  </g>
+  <!-- outer ring labels (6 behaviors) -->
+  <g font-size="21" fill="#5a4632" text-anchor="middle">
+    <text x="204" y="142">努力学习</text>
+    <text x="396" y="142">有效执行</text>
+    <text x="498" y="307">合作沟通</text>
+    <text x="396" y="473">人际交流</text>
+    <text x="204" y="473">发现兴趣</text>
+    <text x="102" y="307">追寻理想</text>
+  </g>
+</svg>

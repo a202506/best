@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="720" viewBox="0 0 1240 720" font-family="FZHei-B01, SimHei, Microsoft YaHei, sans-serif">
+  <!-- 图15-2 选择提出异议的最佳方式 -->
+  <!-- arrows -->
+  <g stroke="#5a5249" stroke-width="2.2" fill="none">
+    <line x1="240" y1="120" x2="372" y2="120"/>
+    <line x1="150" y1="190" x2="150" y2="347"/>
+    <line x1="560" y1="120" x2="692" y2="120"/>
+    <line x1="470" y1="190" x2="470" y2="342"/>
+    <line x1="880" y1="120" x2="1002" y2="120"/>
+    <line x1="790" y1="190" x2="790" y2="412"/>
+    <line x1="560" y1="420" x2="782" y2="420"/>
+    <line x1="470" y1="490" x2="470" y2="597"/>
+  </g>
+  <g fill="#5a5249">
+    <polygon points="382,120 368,114 368,126"/>
+    <polygon points="150,357 144,343 156,343"/>
+    <polygon points="702,120 688,114 688,126"/>
+    <polygon points="470,352 464,338 476,338"/>
+    <polygon points="1012,120 998,114 998,126"/>
+    <polygon points="790,422 784,408 796,408"/>
+    <polygon points="792,420 778,414 778,426"/>
+    <polygon points="470,607 464,593 476,593"/>
+  </g>
+  <!-- edge labels -->
+  <g font-size="20" fill="#8a4b2a" text-anchor="middle">
+    <text x="306" y="108">是</text>
+    <text x="132" y="278">否</text>
+    <text x="626" y="108">是</text>
+    <text x="452" y="278">否</text>
+    <text x="946" y="108">是</text>
+    <text x="772" y="300">否</text>
+    <text x="672" y="408">否</text>
+    <text x="452" y="552">是</text>
+  </g>
+  <!-- diamonds -->
+  <g stroke="#8f8369" stroke-width="1.8" fill="#e8e2d3">
+    <polygon points="150,50 240,120 150,190 60,120"/>
+    <polygon points="470,50 560,120 470,190 380,120"/>
+    <polygon points="790,50 880,120 790,190 700,120"/>
+    <polygon points="470,350 560,420 470,490 380,420"/>
+  </g>
+  <g font-size="20" text-anchor="middle" fill="#2f2a25">
+    <text x="150" y="114">老板能接</text><text x="150" y="138">纳异议</text>
+    <text x="470" y="114">老板已做</text><text x="470" y="138">决定？</text>
+    <text x="790" y="114">在当众</text><text x="790" y="138">场合？</text>
+    <text x="470" y="414">在当众</text><text x="470" y="438">场合？</text>
+  </g>
+  <!-- boxes -->
+  <g stroke="#8f8369" stroke-width="1.8" fill="#efe9dd">
+    <rect x="60" y="357" width="180" height="86" rx="5"/>
+    <rect x="1010" y="77" width="180" height="86" rx="5"/>
+    <rect x="790" y="377" width="180" height="86" rx="5"/>
+    <rect x="380" y="607" width="180" height="86" rx="5"/>
+  </g>
+  <g font-size="20" text-anchor="middle" fill="#2f2a25">
+    <text x="150" y="394">不可提出</text><text x="150" y="420">考虑换老板</text>
+    <text x="1100" y="114">不可提出</text><text x="1100" y="140">必须支持</text>
+    <text x="880" y="428">直言劝谏</text>
+    <text x="470" y="658">建设性提出</text>
+  </g>
+</svg>

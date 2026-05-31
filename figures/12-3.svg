@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="540" viewBox="0 0 760 540" font-family="FZHei-B01, SimHei, Microsoft YaHei, sans-serif">
+  <!-- 图12-3 人生中可用于学习的时间 -->
+  <!-- 大学时光 shaded band -->
+  <rect x="180" y="40" width="120" height="450" fill="#d9d2c1" fill-opacity="0.8"/>
+  <text x="240" y="68" font-size="19" text-anchor="middle" fill="#5a5142">大学时光</text>
+  <!-- axes -->
+  <line x1="60" y1="40" x2="60" y2="490" stroke="#4a4338" stroke-width="2.5"/>
+  <polygon points="60,30 54,46 66,46" fill="#4a4338"/>
+  <line x1="60" y1="490" x2="725" y2="490" stroke="#4a4338" stroke-width="2.5"/>
+  <polygon points="735,490 719,484 719,496" fill="#4a4338"/>
+  <text x="705" y="522" font-size="20" fill="#2f2a25">人生</text>
+  <!-- 用于实践的时间: rising bold dashed -->
+  <path d="M60,452 C140,448 185,430 250,360 C330,275 470,200 715,175" fill="none"
+        stroke="#5a4632" stroke-width="5" stroke-dasharray="16 9" stroke-linecap="round"/>
+  <!-- 用于学习的时间: early bump then decline, dash-dot -->
+  <path d="M60,345 C95,318 130,318 165,348 C215,392 300,425 715,452" fill="none"
+        stroke="#6b6052" stroke-width="3" stroke-dasharray="13 7 2 7" stroke-linecap="round"/>
+  <!-- callout: 用于实践的时间 -->
+  <line x1="560" y1="245" x2="528" y2="195" stroke="#9c8e6f" stroke-width="1.4"/>
+  <rect x="500" y="200" width="170" height="74" rx="9" fill="#efe9dd" stroke="#bdad88" stroke-width="1.4"/>
+  <text x="585" y="234" font-size="19" text-anchor="middle" fill="#2f2a25">用于实践的</text>
+  <text x="585" y="260" font-size="19" text-anchor="middle" fill="#2f2a25">时间</text>
+  <!-- callout: 用于学习的时间 -->
+  <line x1="560" y1="408" x2="540" y2="452" stroke="#9c8e6f" stroke-width="1.4"/>
+  <rect x="500" y="350" width="170" height="74" rx="9" fill="#efe9dd" stroke="#bdad88" stroke-width="1.4"/>
+  <text x="585" y="384" font-size="19" text-anchor="middle" fill="#2f2a25">用于学习的</text>
+  <text x="585" y="410" font-size="19" text-anchor="middle" fill="#2f2a25">时间</text>
+</svg>

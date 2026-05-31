@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="480" viewBox="0 0 500 480" font-family="FZHei-B01, SimHei, Microsoft YaHei, sans-serif">
+  <!-- 图8-1 胸怀的五种表现 -->
+  <!-- spokes -->
+  <g stroke="#b79a6f" stroke-width="3">
+    <line x1="250" y1="250" x2="250" y2="100"/>
+    <line x1="250" y1="250" x2="392.7" y2="203.6"/>
+    <line x1="250" y1="250" x2="338.2" y2="371.4"/>
+    <line x1="250" y1="250" x2="161.8" y2="371.4"/>
+    <line x1="250" y1="250" x2="107.3" y2="203.6"/>
+  </g>
+  <!-- outer nodes -->
+  <g fill="#7a5436" stroke="#5a3c24" stroke-width="1.5">
+    <circle cx="250" cy="100" r="46"/>
+    <circle cx="392.7" cy="203.6" r="46"/>
+    <circle cx="338.2" cy="371.4" r="46"/>
+    <circle cx="161.8" cy="371.4" r="46"/>
+    <circle cx="107.3" cy="203.6" r="46"/>
+  </g>
+  <g fill="#f6efe2" font-size="22" text-anchor="middle">
+    <text x="250" y="108">务实</text>
+    <text x="392.7" y="211.6">宽恕</text>
+    <text x="338.2" y="379.4">自律</text>
+    <text x="161.8" y="379.4">尊重</text>
+    <text x="107.3" y="211.6">涵养</text>
+  </g>
+  <!-- center node -->
+  <circle cx="250" cy="250" r="54" fill="#8a4b2a" stroke="#c9a45c" stroke-width="3"/>
+  <text x="250" y="259" font-size="26" text-anchor="middle" fill="#f6efe2">胸怀</text>
+</svg>

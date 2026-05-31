@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="410" viewBox="0 0 760 410" font-family="FZHei-B01, SimHei, Microsoft YaHei, sans-serif">
+  <!-- 图14-1 人际沟通模型 -->
+  <!-- faces -->
+  <g stroke="#9a8456" stroke-width="2">
+    <circle cx="150" cy="195" r="56" fill="#efe2c8"/>
+    <circle cx="610" cy="195" r="56" fill="#efe2c8"/>
+  </g>
+  <g fill="#3f3a30">
+    <circle cx="134" cy="183" r="3.6"/><circle cx="166" cy="183" r="3.6"/>
+    <circle cx="594" cy="183" r="3.6"/><circle cx="626" cy="183" r="3.6"/>
+  </g>
+  <g stroke="#3f3a30" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M134,212 Q150,220 166,212"/>
+    <path d="M594,212 Q610,220 626,212"/>
+  </g>
+  <!-- face labels -->
+  <g font-size="19" text-anchor="middle" fill="#2f2a25">
+    <text x="150" y="120">编码</text>
+    <text x="150" y="290">解码</text>
+    <text x="64" y="201">理解</text>
+    <text x="610" y="120">解码</text>
+    <text x="610" y="290">编码</text>
+    <text x="696" y="201">理解</text>
+  </g>
+  <!-- center barrier box -->
+  <rect x="350" y="135" width="60" height="135" rx="4" fill="#ece7da" stroke="#9a8f78" stroke-width="1.6"/>
+  <g font-size="19" text-anchor="middle" fill="#5a4632">
+    <text x="380" y="163">可</text><text x="380" y="187">能</text><text x="380" y="211">的</text><text x="380" y="235">屏</text><text x="380" y="259">障</text>
+  </g>
+  <!-- top arrow: 发送通道 A->B -->
+  <path d="M208,168 C300,92 460,92 552,168" fill="none" stroke="#c79a4c" stroke-width="7" stroke-linecap="round"/>
+  <polygon points="564.2,178.3 557.8,161.1 546.2,174.9" fill="#c79a4c"/>
+  <text x="380" y="74" font-size="20" text-anchor="middle" fill="#2f2a25">发送通道</text>
+  <!-- bottom arrow: 反馈通道 B->A -->
+  <path d="M552,242 C460,318 300,318 208,242" fill="none" stroke="#a99e8a" stroke-width="7" stroke-linecap="round"/>
+  <polygon points="195.8,231.7 202.2,248.9 213.8,235.1" fill="#a99e8a"/>
+  <text x="380" y="356" font-size="20" text-anchor="middle" fill="#2f2a25">反馈通道</text>
+  <!-- who -->
+  <g font-size="20" text-anchor="middle" fill="#2f2a25">
+    <text x="150" y="388">沟通者 A</text>
+    <text x="610" y="388">沟通者 B</text>
+  </g>
+</svg>

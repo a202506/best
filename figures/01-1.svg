@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="560" viewBox="0 0 640 560" font-family="FZHei-B01, SimHei, Microsoft YaHei, sans-serif">
+  <!-- 图1-1 成功人士的财富和地位 -->
+  <defs>
+    <path id="s11star" d="M0,-15 L4.4,-4.4 L15,0 L4.4,4.4 L0,15 L-4.4,4.4 L-15,0 L-4.4,-4.4 Z" fill="#8a4b2a"/>
+  </defs>
+  <!-- axes -->
+  <line x1="92" y1="30" x2="92" y2="500" stroke="#5a5249" stroke-width="2.5"/>
+  <line x1="80" y1="500" x2="618" y2="500" stroke="#5a5249" stroke-width="2.5"/>
+  <!-- y axis arrows (high/low) -->
+  <polygon points="92,22 86,38 98,38" fill="#5a5249"/>
+  <!-- x axis arrow (more) -->
+  <polygon points="626,500 610,494 610,506" fill="#5a5249"/>
+  <!-- y labels -->
+  <text x="64" y="34" font-size="20" text-anchor="middle" fill="#2f2a25">高</text>
+  <text x="64" y="500" font-size="20" text-anchor="middle" fill="#2f2a25">低</text>
+  <text x="34" y="265" font-size="19" text-anchor="middle" fill="#2f2a25" transform="rotate(-90 34 265)">名望或地位</text>
+  <!-- x labels -->
+  <text x="70" y="534" font-size="20" text-anchor="middle" fill="#2f2a25">少</text>
+  <text x="612" y="534" font-size="20" text-anchor="middle" fill="#2f2a25">多</text>
+  <text x="350" y="534" font-size="19" text-anchor="middle" fill="#2f2a25">财富</text>
+  <line x1="300" y1="527" x2="250" y2="527" stroke="#5a5249" stroke-width="1.6"/>
+  <line x1="400" y1="527" x2="450" y2="527" stroke="#5a5249" stroke-width="1.6"/>
+  <polygon points="244,527 256,523 256,531" fill="#5a5249"/>
+  <polygon points="456,527 444,523 444,531" fill="#5a5249"/>
+
+  <!-- data points -->
+  <use href="#s11star" transform="translate(305,72)"/>
+  <text x="324" y="79" font-size="19" fill="#2f2a25">林肯</text>
+
+  <use href="#s11star" transform="translate(330,122)"/>
+  <text x="349" y="129" font-size="19" fill="#2f2a25">爱因斯坦</text>
+
+  <use href="#s11star" transform="translate(560,150)"/>
+  <text x="556" y="183" font-size="19" text-anchor="middle" fill="#2f2a25">比尔·盖茨</text>
+
+  <use href="#s11star" transform="translate(178,268)"/>
+  <text x="197" y="275" font-size="19" fill="#2f2a25">特蕾莎修女</text>
+
+  <use href="#s11star" transform="translate(112,372)"/>
+  <text x="131" y="379" font-size="19" fill="#2f2a25">梵高</text>
+
+  <use href="#s11star" transform="translate(132,404)"/>
+  <text x="151" y="411" font-size="19" fill="#2f2a25">卡夫卡</text>
+
+  <use href="#s11star" transform="translate(196,436)"/>
+  <text x="215" y="443" font-size="19" fill="#2f2a25">李开复的母亲</text>
+
+  <use href="#s11star" transform="translate(112,470)"/>
+  <text x="131" y="477" font-size="19" fill="#2f2a25">墨西哥裔园丁</text>
+</svg>
